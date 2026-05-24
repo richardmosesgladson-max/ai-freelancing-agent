@@ -1,2 +1,23 @@
-# ai-freelancing-agent
-Built Mark 1 of my AI-assisted Freelancing Agent 🚀 This Python project extracts resume skills, matches them with freelancer job requirements, calculates a match score, and generates proposals automatically. Built to learn real-world AI-assisted coding workflows and modular development.
+# Freelancing Agent - Mark 1
+
+An AI-assisted Python project that:
+- extracts resume skills
+- compares with freelancer job requirements
+- generates match score
+- creates freelance proposal
+
+Built using:
+- Python
+- AI-assisted coding workflows
+- BLACKBOX AI / Copilot
+
+Current Features:
+- Skill extraction
+- Job matching
+- Proposal generation
+
+Upcoming Features:
+- FastAPI
+- Better scoring
+- Semantic matching
+- Vector search
